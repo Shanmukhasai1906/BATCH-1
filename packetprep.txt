@@ -1,0 +1,20 @@
+If it is a PASCII then it is called Authentication.
+The requirements of authentication is called Validation.
+
+constrium
+
+1.the evaluation of HTML attributes of class and id's
+
+Break points of screens
+Large screens Ex: laptops
+Medium screens Ex: tablets
+small screend  Eg: mobiles
+
+To make sure the performance is up to the mark we need to focus on symantics or framee works.
+
+Case insensitive language of HTML
+a combination of lower case and upper case
+
+
+
+That consist a job application
